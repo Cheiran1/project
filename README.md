@@ -17,6 +17,7 @@
   - HTML
   - CSS
   - Java Script
+### Implementation
   - The HTML defines the structure of the webpage, including a dropdown selection for time periods and locations, a button to fetch travel tips, and a section to display the tips and itineraries.
  
  - The CSS provides styling that gives the webpage an ancient, historical feel:
