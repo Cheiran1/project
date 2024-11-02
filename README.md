@@ -1,2 +1,2 @@
 # Ancient Travel Tips
-##Basic Details
+Basic Details
