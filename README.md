@@ -34,6 +34,8 @@ Travel Tips Display: When the button is clicked, the getTravelTips() function re
 ## Screenshots
 
 
+![Screenshot 2024-11-02 151146](https://github.com/user-attachments/assets/338a80b4-0223-4999-aa26-b0674de8c8cf)
+
 ## Team Contributions
   - Aavani V V : Organized and created the travel tips and itineraries for different periods and locations.
   - Cherian Shaji :  Implemented the JavaScript functions to handle user interaction and dynamically update content.
