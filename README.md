@@ -31,5 +31,7 @@ Data Structure for Travel Tips: An object, travelTips, stores information about 
 Location Selection Update: When the user selects a time period, JavaScript dynamically updates the available locations in the second dropdown by referencing the locationsByPeriod object.
 Travel Tips Display: When the button is clicked, the getTravelTips() function retrieves the tips and itinerary for the selected location and time period, displaying them in a previously hidden <div>.
 
+## Screenshots
+
 
     
