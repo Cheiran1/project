@@ -32,9 +32,29 @@ Location Selection Update: When the user selects a time period, JavaScript dynam
 Travel Tips Display: When the button is clicked, the getTravelTips() function retrieves the tips and itinerary for the selected location and time period, displaying them in a previously hidden <div>.
 
 ## Screenshots
-
+### Menu 1
 
 ![Screenshot 2024-11-02 151146](https://github.com/user-attachments/assets/338a80b4-0223-4999-aa26-b0674de8c8cf)
+
+* Select a Time Period:
+   - The user starts by selecting a historical time period from a dropdown menu, with options like "Medieval Europe," "Renaissance Italy," or "Ancient Egypt."
+Based on the chosen period, the website automatically updates the available locations to match that era.
+
+### Menu 2
+
+![Screenshot 2024-11-02 151203](https://github.com/user-attachments/assets/3560ff5a-c74b-4ace-97e7-5892a3428059)
+
+* Select a Location:
+   - After choosing a time period, the user can select a specific location within that era (e.g., "Rome" in Renaissance Italy).
+This selection helps tailor the travel tips and itinerary to a unique place within the chosen historical context.
+
+### Menu 3
+
+![Screenshot 2024-11-02 151221](https://github.com/user-attachments/assets/5925db68-f8b7-44f2-b61a-b2f9cfd2018c)
+
+* View Travel Tips and Suggested Itinerary:
+  - Upon clicking "Get Travel Tips," the website displays relevant travel tips for that period and location, such as appropriate clothing, safety advice, and cultural etiquette.
+Additionally, a suggested itinerary for that location is provided, highlighting historical landmarks, traditional activities, and notable sites to visit, giving the user a feel for a day in the life of a traveler from that era.
 
 ## Team Contributions
   - Aavani V V : Organized and created the travel tips and itineraries for different periods and locations.
