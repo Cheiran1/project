@@ -18,16 +18,18 @@
   - CSS
   - Java Script
 ### Implementation
-  -The HTML defines the structure of the webpage, including a dropdown selection for time periods and locations, a button to fetch travel tips, and a section to display the tips and itineraries.
- -The CSS provides styling that gives the webpage an ancient, historical feel:
+  - The HTML defines the structure of the webpage, including a dropdown selection for time periods and locations, a button to fetch travel tips, and a section to display the tips and itineraries.
+ 
+ - The CSS provides styling that gives the webpage an ancient, historical feel:
 Background: A textured background is added using a paper-like image, creating a vintage look.
 Font Styles: Fonts and colors were selected to reflect an ancient aesthetic, with serif fonts and golden accents to create a historical vibe.
 Button Hover Effects: Animations on the button make it visually engaging, with scaling and color changes on hover.
 Responsive Design: Media queries are included to adjust the layout on smaller screens.
-JavaScript provides the interactive behavior of the page:
+
+- JavaScript provides the interactive behavior of the page:
 Data Structure for Travel Tips: An object, travelTips, stores information about each time period and location, including travel tips and suggested itineraries.
 Location Selection Update: When the user selects a time period, JavaScript dynamically updates the available locations in the second dropdown by referencing the locationsByPeriod object.
 Travel Tips Display: When the button is clicked, the getTravelTips() function retrieves the tips and itinerary for the selected location and time period, displaying them in a previously hidden <div>.
-Capitalize Function: This function ensures each location name is capitalized properly.
+
 
     
