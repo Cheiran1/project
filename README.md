@@ -2,10 +2,10 @@
 ## Basic Details
 ### Team Name: Ctrl+Alt+Defeat
 ### Team Members:
-  - Aavani V V
-  - Cherian Shaji
-  - Sona Mariya Siju
-    
+  - Sona Mariya Siju [SJCET,Palai]
+  - Aavani V V [SJCET,Palai] 
+  - Cherian Shaji [SJCET,Palai]
+  
 ### Project Description
   This project offers users a historical travel experience by providing tips and suggested itineraries tailored to various ancient and historical time periods and locations. Users can select a time period (such as Medieval Europe, Renaissance Italy, or Ancient Egypt) and a specific city or place (like Paris, Cairo, or Rome) relevant to that era. Once a location and period are chosen, the program displays helpful travel tips and a suggested itinerary for that historical context, giving users an immersive glimpse into how they might travel in these past worlds.
 ### The Problem(that doesn't exist)
@@ -32,6 +32,13 @@ Location Selection Update: When the user selects a time period, JavaScript dynam
 Travel Tips Display: When the button is clicked, the getTravelTips() function retrieves the tips and itinerary for the selected location and time period, displaying them in a previously hidden <div>.
 
 ## Screenshots
+
+
+## Team Contributions
+  - Aavani V V : Organized and created the travel tips and itineraries for different periods and locations.
+  - Cherian Shaji :  Implemented the JavaScript functions to handle user interaction and dynamically update content.
+  -  Sona Mariya Siju : Developed the HTML structure and styled the page to reflect an ancient design theme, creating an engaging user interface.
+
 
 
     
