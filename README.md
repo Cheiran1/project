@@ -60,8 +60,8 @@ Additionally, a suggested itinerary for that location is provided, highlighting 
 
 ## Team Contributions
   - Aavani V V : Organized and created the travel tips and itineraries for different periods and locations.
-  - Cherian Shaji :  Implemented the JavaScript functions to handle user interaction and dynamically update content.
   - Sona Mariya Siju : Developed the HTML structure and styled the page to reflect an ancient design theme, creating an engaging user interface.
+  - Cherian Shaji :  Implemented the JavaScript functions to handle user interaction and dynamically update content.
 
 
 
