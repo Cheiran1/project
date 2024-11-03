@@ -1,4 +1,4 @@
-# Ancient Travel Tips
+# ChronoQuest
 ## Basic Details
 ### Team Name: Ctrl+Alt+Defeat
 ### Team Members:
@@ -7,7 +7,9 @@
   - Cherian Shaji [SJCET,Palai]
   
 ### Project Description
-  This project offers users a historical travel experience by providing tips and suggested itineraries tailored to various ancient and historical time periods and locations. Users can select a time period (such as Medieval Europe, Renaissance Italy, or Ancient Egypt) and a specific city or place (like Paris, Cairo, or Rome) relevant to that era. Once a location and period are chosen, the program displays helpful travel tips and a suggested itinerary for that historical context, giving users an immersive glimpse into how they might travel in these past worlds.
+  ChronoQuest is a unique website designed to support time travelers exploring ancient and historical destinations. With a simple, interactive interface, users can select a specific time period and location, unlocking customized travel advice to help them fully immerse in each era.
+For every selected era and place, ChronoQuest provides key insights on how to blend in with the locals, including guidelines on traditional attire, behaviors, and customs. Users receive detailed information on the ruling figures of the time, foods to try, and essential precautions to navigate potential cultural challenges. The site also highlights notable landmarks, marketplaces, and other points of interest for a complete historical experience.
+By combining practical travel tips with rich historical context, ChronoQuest is the ultimate tool for anyone looking to explore the past authentically and confidently, making every journey through time as seamless as possible.
 ### The Problem(that doesn't exist)
   People face the difficulty in authentically experiencing ancient locations
 ### The Solution(that nobody asked for)
