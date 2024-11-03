@@ -50,7 +50,7 @@ Based on the chosen period, the website automatically updates the available loca
    - After choosing a time period, the user can select a specific location within that era (e.g., "Rome" in Renaissance Italy).
 This selection helps tailor the travel tips and itinerary to a unique place within the chosen historical context.
 
-### Menu 3
+### Result
 
 ![Screenshot 2024-11-02 151221](https://github.com/user-attachments/assets/5925db68-f8b7-44f2-b61a-b2f9cfd2018c)
 
